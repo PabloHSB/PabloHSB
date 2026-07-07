@@ -24,7 +24,7 @@
     </td>
     <td width="45%" align="center">
       <!-- GIF Lateral Vermelho -->
-      <img src="https://media.tenor.com/tHqgU6R-iH0AAAAC/sharingan-naruto.gif" width="70%" alt="Sharingan Animado">
+      <img src="https://github.com/PabloHSB/PabloHSB/raw/main/Mangekyou.gif" width="70%" alt="Sharingan Animado">
     </td>
   </tr>
 </table>
