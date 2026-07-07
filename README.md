@@ -20,7 +20,6 @@
       <br>
       <p>📫 <strong>Me encontre por aqui:</strong></p>
       <a href="https://www.linkedin.com/in/pablohsbernardino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-      <a href="mailto:pablohenrik29@gmail.com"><img src="https://img.shields.io/badge/-Email-141414?style=for-the-badge&logo=gmail&logoColor=red" alt="Email"></a>
     </td>
     <td width="45%" align="center">
       <!-- GIF Lateral Vermelho -->
