@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner do Madara -->
-  <img src=https://github.com/PabloHSB/PabloHSB/raw/main/Madara.gif" al width="100%" alt="Madara Banner" />
+  <img src="https://github.com/PabloHSB/PabloHSB/raw/main/Madara.gif" al width="100%" alt="Madara Banner" />
 </div>
 
 <h2 align="center">Olá, meu nome é Pablo! 🩸</h2>
