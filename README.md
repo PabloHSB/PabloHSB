@@ -21,6 +21,11 @@
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
+  <!-- Excel -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40" alt="excel logo" />
+  <img width="12" />
+  <!-- Power Apps (Power Platform) -->
+  <img src="https://img.icons8.com/color/48/power-apps.png" height="40" alt="power apps logo" />
 </div>
 
 <h2 align="left">🚀 Projetos em Destaque</h2>
