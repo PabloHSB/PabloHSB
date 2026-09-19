@@ -4,7 +4,7 @@
 
 <h2 align="left">Sobre mim</h2>
 <p align="left">
-  ✨ Criando bugs desde que decidi ser programador <br>
+  ✨ Transformando números perdidos em insights valiosos <br>
   📚 Atualmente estudando: <b>Data Science, Python (POO), SQL e Análise de Dados</b> <br>
   🎯 Objetivo: Atuar com Inteligência de Negócios e transformar dados em decisões <br>
   🎲 Curiosidade: Consigo transformar a minha paixão por futebol em projetos reais de análise de dados e Machine Learning!
@@ -24,20 +24,18 @@
   <!-- Excel -->
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40" alt="excel logo" />
   <img width="12" />
-  <!-- Power Apps (Power Platform) -->
-  <img src="https://img.icons8.com/color/48/power-apps.png" height="40" alt="power apps logo" />
-  <img width="12" />
 </div>
 
-<h2 align="left">🚀 Projetos em Destaque</h2>
+<h2 align="left">🚧 O que estou construindo (Roadmap)</h2>
+<p align="left">Estes são os projetos que estou desenhando e começarei a desenvolver em breve para colocar meus estudos em prática:</p>
 <ul>
   <li>
-    <b><a href="#">Sistema Financeiro com Análise de Dados</a></b><br>
-    <i>Python, SQL e Pandas</i> | Plataforma multiusuário que converte dados financeiros brutos em bancos de dados estruturados, gerando alertas de gastos e previsões (Forecast).
+    <b>Sistema Financeiro com Análise de Dados (Em Planejamento)</b><br>
+    <i>Python, SQL e Pandas</i> | Será uma plataforma multiusuário para converter dados financeiros brutos em bancos de dados estruturados, gerando alertas de gastos e previsões (Forecast).
   </li>
   <br>
   <li>
-    <b><a href="#">Plataforma Analítica de Futebol (Dashboard em Nuvem)</a></b><br>
-    <i>Python, Pandas, Web Scraping e Streamlit</i> | Aplicação interativa hospedada na nuvem que coleta dados esportivos de qualquer time em tempo real. Realiza processo de ETL e Análise Exploratória (EDA) para exibir estatísticas, probabilidades de vitória e informações das partidas, tudo acessível de forma fácil através de um link compartilhável.
+    <b>Plataforma Analítica de Futebol (Em Planejamento)</b><br>
+    <i>Python, Pandas, Web Scraping e Streamlit</i> | Será uma aplicação interativa na nuvem que coletará dados esportivos em tempo real, realizando ETL e análise (EDA) para exibir estatísticas de partidas.
   </li>
 </ul>
