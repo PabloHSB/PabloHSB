@@ -26,6 +26,7 @@
   <img width="12" />
   <!-- Power Apps (Power Platform) -->
   <img src="https://img.icons8.com/color/48/power-apps.png" height="40" alt="power apps logo" />
+  <img width="12" />
 </div>
 
 <h2 align="left">🚀 Projetos em Destaque</h2>
