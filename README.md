@@ -1,6 +1,6 @@
 <h1 align="left">Olá 👋 Tudo bem?</h1>
 
-<p align="left">Meu nome é Pablo e sou um entusiasta de Ciência de Dados e Business Intelligence do Brasil.</p>
+<p align="left">Meu nome é Pablo e sou um entusiasta de Ciência de Dados e Business Intelligence.</p>
 
 <h2 align="left">Sobre mim</h2>
 <p align="left">
